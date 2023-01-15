@@ -6,4 +6,4 @@ To install the mod, follow the steps unless you already know what you are doing.
 
 - If you have Psych Engine running:
   - Put the mod inside of your mods folder and relaunch the game.
-  - Make sure it's all enabled, you can enable it by clicking "enable all".
+    - Make sure it's all enabled, you can enable it by clicking "enable all" and it will restart the game on exit.
