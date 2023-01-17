@@ -1,4 +1,5 @@
-To install the mod, follow the steps unless you already know what you are doing.
+## HOW TO INSTALL THE MOD
+### To install the mod, follow these steps unless you already know what you are doing.
 
 - Download the mod from the releases tab.
 - Extract the .zip once it's finished downloading.
